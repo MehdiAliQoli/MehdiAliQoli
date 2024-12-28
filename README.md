@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mehdi Ali
-### Cyber Security Enthusiast from Pki
+### Cyber Security Enthusiast from Skardu Pkistan
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mehdialiqoli&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
