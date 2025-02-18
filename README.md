@@ -10,7 +10,7 @@
 #### Hack for breath and breath for hacking.
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mehdialiqoli&label=Profile%20views&color=gray&style=flat" alt="Profile Views" />
@@ -53,7 +53,7 @@
 
 ## GitHub Profile Summary:
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehdialiqoli&theme=github_dark" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehdialiqoli&theme=vue" alt="GitHub Profile Summary" />
 </p>
 
 ---
@@ -66,9 +66,9 @@
 ---
 
 ## Fun Fact:
-![Fun Fact](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite)
+![Fun Fact](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
 ## Activity Graph:
-[![Mehdi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehdialiqoli&bg_color=2c2f33&color=9c9c9c&line=7289da&point=99aab5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mehdi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehdialiqoli&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
