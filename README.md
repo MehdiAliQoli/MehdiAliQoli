@@ -4,16 +4,16 @@
 🚀 Passionate about Cyber Security and exploring the digital world's vulnerabilities.<br>
 🔐 On a mission to make the internet a safer place for all.  <br>
 🌐 Currently learning advanced penetration testing techniques.
-  </p>
+</p>
 
-  
---
+---
 #### Hack for breath and breath for hacking.
---
+---
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mehdialiqoli&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mehdialiqoli&label=Profile%20views&color=gray&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -44,33 +44,31 @@
 
 ## GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdialiqoli&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdialiqoli&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdialiqoli&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdialiqoli&show_icons=true&theme=graywhite" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdialiqoli&theme=graywhite" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdialiqoli&layout=compact&theme=graywhite" alt="Top Languages" />
 </p>
 
 ---
 
 ## GitHub Profile Summary:
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehdialiqoli&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehdialiqoli&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 
 ---
 
 ## Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehdialiqoli&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mehdialiqoli&theme=gruvbox&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## Fun Fact:
-![Fun Fact](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Fun Fact](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite)
 
 ---
 
 ## Activity Graph:
-[![Mehdi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehdialiqoli&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+[![Mehdi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehdialiqoli&bg_color=2c2f33&color=9c9c9c&line=7289da&point=99aab5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
