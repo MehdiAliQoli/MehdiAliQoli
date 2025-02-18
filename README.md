@@ -72,5 +72,6 @@
 
 ## Activity Graph:
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mehdialiqoli&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mehdialiqoli&theme=radical" alt="GitHub Activity Graph" />
 </p>
+
