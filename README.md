@@ -2,10 +2,11 @@
 ### Cyber Security Enthusiast from Skardu, Pakistan
 
 🚀 Passionate about Cyber Security and exploring the digital world's vulnerabilities.  
-💻 Full-stack developer with a keen interest in web technologies.  
-🔐 On a mission to make the internet a safer place.  
-🌐 Currently learning advanced penetration testing techniques.  
-
+🔐 On a mission to make the internet a safer place for all.  
+🌐 Currently learning advanced penetration testing techniques.
+--
+#### Hack for breath and breath for hacking.
+--
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
