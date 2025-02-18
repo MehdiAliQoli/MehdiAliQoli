@@ -71,7 +71,6 @@
 ---
 
 ## Activity Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mehdialiqoli&theme=radical" alt="GitHub Activity Graph" />
-</p>
+[![Mehdi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehdialiqoli&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
