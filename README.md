@@ -1,6 +1,8 @@
 # Hi 👋, I'm Mehdi Ali
 ### Cyber Security Enthusiast from Skardu, Pakistan
+-
 
+###
 🚀 Passionate about Cyber Security and exploring the digital world's vulnerabilities.  
 🔐 On a mission to make the internet a safer place for all.  
 🌐 Currently learning advanced penetration testing techniques.
