@@ -49,17 +49,6 @@
 
 ---
 
-## Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehdialiqoli&theme=gruvbox&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
-
-## Fun Fact:
-![Fun Fact](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
 
 ## Activity Graph:
 [![Mehdi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehdialiqoli&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
