@@ -40,16 +40,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
 
-## GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdialiqoli&show_icons=true&theme=graywhite" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdialiqoli&theme=graywhite" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdialiqoli&layout=compact&theme=graywhite" alt="Top Languages" />
-</p>
-
----
 
 ## GitHub Profile Summary:
 <p align="center">
