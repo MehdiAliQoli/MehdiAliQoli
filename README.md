@@ -10,7 +10,7 @@
 #### Hack for breath and breath for hacking.
 ---
 
-<img align="right" alt="Coding" width="400" style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" style="border-radius: 12px; box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mehdialiqoli&label=Profile%20views&color=gray&style=flat" alt="Profile Views" />
