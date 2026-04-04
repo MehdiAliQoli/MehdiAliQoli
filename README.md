@@ -25,7 +25,15 @@ I build things that solve real problems for real people. Currently focused on ma
 </p>
 
 ---
-
+## About Me
+ 
+- 🎓 Studying Computer Science at **IBA Karachi** (Spring 2026)
+- 🔐 Interested in **cybersecurity** and ethical hacking
+- 🌐 Building **full-stack web applications** with a focus on real-world impact
+- 📚 Coursework: AI, Computer Architecture, Networking, Theory of Computation
+- 🇵🇰 Based in **Karachi, Pakistan**
+ 
+---
 ## Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
