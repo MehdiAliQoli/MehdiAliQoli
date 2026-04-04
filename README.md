@@ -33,6 +33,16 @@ Currently focused on making quality education accessible to every Pakistani stud
 
 ---
 
+**GitHub Streak**
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mehdialiqoli&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 **Languages & Tools**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
