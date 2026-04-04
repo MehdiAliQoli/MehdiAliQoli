@@ -14,6 +14,17 @@ I build things that solve real problems for real people. Currently focused on ma
 
 ---
 
+---
+ 
+## GitHub Stats
+ 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MehdiAliQoli&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiAliQoli&layout=compact&theme=default&hide_border=true" height="160" />
+</p>
+ 
+---
+
 ## Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/mehdi-ali-qoli" target="blank">
