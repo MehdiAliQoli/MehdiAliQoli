@@ -1,11 +1,9 @@
-# Hi 👋, I'm Mehdi Ali
-### BSCS Student at IBA Karachi
-<p>
-🚀 Passionate about Cyber Security and exploring the digital world's vulnerabilities.<br>
-🔐 On a mission to make the internet a safer place for all.  <br>
-🌐 Currently learning advanced penetration testing techniques.
-</p>
-
+# Mehdi Ali Qoli
+ 
+**BSCS Student · IBA Karachi**
+ 
+I build things that solve real problems for real people. Currently focused on making quality education accessible to every Pakistani student through open source.
+ 
 ---
 #### Hack for breath and breath for hacking.
 ---
