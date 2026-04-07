@@ -1,32 +1,25 @@
 <div align="center" style="max-width: 700px; margin: 0 auto;">
 
-<h1>Mehdi Ali Qoli</h1>
-
-<p><strong>BSCS Student · IBA Karachi</strong></p>
-
-<p>I build things that solve real problems for real people.<br>
-Currently focused on making quality education accessible to every Pakistani student through open source.</p>
-
-<img alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img src="banner.jpg" alt="Mehdi Ali Qoli" width="100%" style="border-radius: 12px;" />
 
 <br/><br/>
 
+<p>I build things that solve real problems for real people.<br>
+Currently focused on making quality education accessible to every Pakistani student through open source.</p>
+<img alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<br/><br/>
 <img src="https://komarev.com/ghpvc/?username=mehdialiqoli&label=Profile%20views&color=gray&style=flat" alt="Profile Views" />
-
 </div>
 
 ---
 
 <div align="center">
-
-**`CS`** &nbsp; Studying Computer Science at **IBA Karachi** (Spring 2026) &nbsp;·&nbsp; **`PK`** Based in **Karachi, Pakistan**
-
+<strong><code>CS</code></strong> &nbsp; Studying Computer Science at <strong>IBA Karachi</strong> (Spring 2026) &nbsp;·&nbsp; <strong><code>PK</code></strong> Based in <strong>Karachi, Pakistan</strong>
 </div>
 
 ---
 
 **Interests**
-
 - Cybersecurity and ethical hacking
 - Full-stack web applications with real-world impact
 - Coursework: AI · Computer Architecture · Networking · Theory of Computation
