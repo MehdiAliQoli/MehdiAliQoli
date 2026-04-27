@@ -1,4 +1,4 @@
-<div align="center" style="max-width: 700px; margin: 0 auto;">
+<div align="center" style="max-width: 709px; margin: 0 auto;">
 
 <img src="banner.jpg" alt="Mehdi Ali Qoli" width="100%" style="border-radius: 12px;" />
 
