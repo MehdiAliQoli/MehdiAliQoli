@@ -59,9 +59,10 @@ Currently focused on making quality education accessible to every Pakistani stud
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehdiAliQoli/MehdiAliQoli/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehdiAliQoli/MehdiAliQoli/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MehdiAliQoli/MehdiAliQoli/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+<a href="https://gist.github.com/MehdiAliQoli"><img src="https://profile-counter.glitch.me/MehdiAliQoli/count.svg" alt="MehdiAliQoli :: Visitor's Count" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/MehdiAliQoli/MehdiAliQoli/output/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake" style="max-width: 100%;">
