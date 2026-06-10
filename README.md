@@ -61,15 +61,11 @@ Currently focused on making quality education accessible to every Pakistani stud
 
 ---
 
-<h2 align="center">📊 Contributions Snake Animation</h2>
 
-<p align="center">
-  <a href="https://gist.github.com/MehdiAliQoli">
-    <img src="https://profile-counter.glitch.me/MehdiAliQoli/count.svg" alt="MehdiAliQoli :: Visitor's Count" />
-  </a>
-</p>
 
-## 🐍 My GitHub Contribution Snake
+
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehdiAliQoli/MehdiAliQoli/output/github-contribution-grid-snake-dark.svg" />
